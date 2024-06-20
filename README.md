@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manjineshwaran
-- 👀 I’m interested in DataScience and Machine Learning. Completed IBM Certification in Datascience and Machine Learning
-- 🌱 Looking for Internship or Full Time Opportunities in the field of Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning Project
+- 👀 I’m interested in Software Development. Completed IBM Certification 
+- 🌱 Looking for Internship or Full Time Opportunities
+- 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 Email: manjineshwaran@gmail.com
 - Linkedin: https://www.linkedin.com/in/manjineshwaran-g-47242b1b7/
 
