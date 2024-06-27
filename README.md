@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manjineshwaran
 - 👀 I’m interested in Software Development. Completed IBM Certification 
-- 🌱 Looking for Internship or Full Time Opportunities
+- 🌱 Looking for Freelance or Part time or Full Time Opportunities
 - 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 Email: manjineshwaran@gmail.com
 - Linkedin: https://www.linkedin.com/in/manjineshwaran-g-47242b1b7/
