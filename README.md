@@ -6,6 +6,7 @@
 - streamlit: https://share.streamlit.io/user/manjineshwaran
 - Portfolio: https://github.com/Manjineshwaran/Portfolio
 - My Application:
+- https://chatbot-manjineshwaran-chatbot.streamlit.app/    https://multiplediseasedetection-manjineshwaran.streamlit.app/    
 
 <!---
 Manjineshwaran/Manjineshwaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
