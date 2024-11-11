@@ -4,6 +4,8 @@
 - 📫 Email: manjineshwaran@gmail.com
 - Linkedin: https://www.linkedin.com/in/manjineshwaran-g-47242b1b7/
 - streamlit: https://share.streamlit.io/user/manjineshwaran
+- Portfolio: https://github.com/Manjineshwaran/Portfolio
+- My Application:
 
 <!---
 Manjineshwaran/Manjineshwaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
