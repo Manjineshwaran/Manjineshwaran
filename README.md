@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manjineshwaran
-- 👀 I’m Good at Python, Java, SQL. Completed IBM Certification 
+- 👀 I’m Good at Python, Java, SQL. Completed IBM Data Science Certification 
 - 🌱 Looking for Freelance or Part time or Full Time Opportunities
 - 📫 Email: manjineshwaran@gmail.com
 - Linkedin: https://www.linkedin.com/in/manjineshwaran-g-47242b1b7/
@@ -8,6 +8,7 @@
 - My Application:
 - https://chatbot-manjineshwaran-chatbot.streamlit.app/
 - https://multiplediseasedetection-manjineshwaran.streamlit.app/
+- https://github.com/Manjineshwaran/Portfolio
 - https://manjineshwaran.pythonanywhere.com/
 
 <!---
