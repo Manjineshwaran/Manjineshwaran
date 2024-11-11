@@ -10,6 +10,7 @@
 - https://multiplediseasedetection-manjineshwaran.streamlit.app/
 - https://github.com/Manjineshwaran/Portfolio
 - https://manjineshwaran.pythonanywhere.com/
+- https://diabetiesprediction-akkjb7x96u8s8lwf8tavv4.streamlit.app/
 
 <!---
 Manjineshwaran/Manjineshwaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
