@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manjineshwaran
 - 👀 I’m Good at Python, Java, SQL. Completed IBM Data Science Certification 
-- 🌱 Looking for Freelance or Part time or Full Time Opportunities
+- 🌱 Working as AI engineer at Zeeproc
 - 📫 Email: manjineshwaran@gmail.com
 - Linkedin: https://www.linkedin.com/in/manjineshwaran-g-47242b1b7/
 - streamlit: https://share.streamlit.io/user/manjineshwaran
