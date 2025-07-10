@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-AI Engineer passionate about building **agentic systems**, **LLM tools**, and **computer vision pipelines**. I specialize in turning real-world problems into AI-powered workflows using modern tooling like `LangChain`, `LangGraph`, `FastAPI`, and `YOLO`.
+AI Engineer passionate about building **agentic systems**, **LLM tools**, and **computer vision pipelines**. I specialize in turning real-world problems into AI-powered workflows using modern tooling like `opencv`, `Tensorflow`,`LangChain`, `LangGraph`, `FastAPI`, and `YOLO`.
 
 ---
 
