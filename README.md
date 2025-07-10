@@ -96,17 +96,6 @@ AI Engineer passionate about building **agentic systems**, **LLM tools**, and **
 
 ---
 
-### 🩺 [Multiple Disease Detection (ML)](https://multiplediseasedetection-manjineshwaran.streamlit.app/)
-> Predict diseases like Diabetes, Heart Disease, Parkinson’s  
-> `Logistic Regression`, `RandomForest`, `SVM` | Built with Streamlit
-
----
-
-### 🔍 [Diabetes Prediction App](https://diabetiesprediction-akkjb7x96u8s8lwf8tavv4.streamlit.app/)
-> Clean UI for ML-based Diabetes classification  
-> Trained and deployed using Streamlit + Scikit-learn
-
----
 
 ## 🔗 Live Apps & Demos
 
