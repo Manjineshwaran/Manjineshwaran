@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manjineshwaran
 
-**AI Engineer Consultant** | Puducherry, India  
+**AI Engineer Consultant** | zeeproc | Banglore, India  
 📧 manjineshwaran@gmail.com | 📞 +91 83005 03218  
 🔗 [LinkedIn](https://www.linkedin.com/in/manjineshwaran-g-47242b1b7/) | 🧪 [Streamlit Portfolio](https://share.streamlit.io/user/manjineshwaran) | 💻 [GitHub Projects](https://github.com/Manjineshwaran)
 
