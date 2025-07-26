@@ -15,7 +15,7 @@ AI Engineer passionate about building **agentic systems**, **LLM tools**, and **
 ## 💼 Work Experience
 
 ### 🔹 AI Engineer Consultant – Zeeproc (Feb 2025 – Present)
-
+#### Project: LLM-Powered AI Agent System for Customer Support Automation
 - 🧠 Built a **meta-agent orchestration system** with LangGraph for managing customer workflows
 - ⚙️ Developed 6+ modular AI agents (Support, Onboarding, Renewal, etc.) using LangChain + FastAPI
 - 🧠 Connected agents to vector DBs for RAG + used LangMem for multi-turn context
