@@ -15,7 +15,7 @@ AI Engineer passionate about building **agentic systems**, **LLM tools**, and **
 ## 💼 Work Experience
 
 ### 🔹 AI Engineer Consultant – Zeeproc (Feb 2025 – Present)
-#### Project: LLM-Powered AI Agent System for Customer Support Automation
+####  🔹 Project: LLM-Powered AI Agent System for Customer Support Automation
 - 🧠 Built a **meta-agent orchestration system** with LangGraph for managing customer workflows
 - ⚙️ Developed 6+ modular AI agents (Support, Onboarding, Renewal, etc.) using LangChain + FastAPI
 - 🧠 Connected agents to vector DBs for RAG + used LangMem for multi-turn context
@@ -24,7 +24,8 @@ AI Engineer passionate about building **agentic systems**, **LLM tools**, and **
 - ☁️ Deployed full system on Docker + GCP
 
 ### 🔹 Computer Vision Intern – Extazee Software (Nov 2024 – Jan 2025)
-
+####  🔹 Project Title: AI-Based Video Surveillance System using YOLOv8 and DeepSort
+####  🔹 Project Title: Industrial Surface Defect Detection using YOLOv8 and OpenCV
 - 🔍 Trained YOLOv8 models for defect detection (scratches, dents, missing parts)
 - 📹 Built real-time OpenCV pipeline for factory inspection videos with auto-pass/fail classification
 - 📊 Documented model metrics and improved accuracy through iterative tuning
