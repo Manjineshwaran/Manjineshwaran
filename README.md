@@ -23,7 +23,7 @@ AI Engineer passionate about building **agentic systems**, **LLM tools**, and **
 - 🛠 Created **MCP (Model Context Protocol)** to unify data from multiple systems for live context injection
 - ☁️ Deployed full system on Docker + GCP
 
-### 🔹 Computer Vision Intern – Extazee Software (Nov 2024 – Jan 2025)
+### 🔹 Computer Vision Engineer – Extazee Software (Nov 2024 – Jan 2025)
 ####  🔹 Project Title: AI-Based Video Surveillance System using YOLOv8 and DeepSort
 ####  🔹 Project Title: Industrial Surface Defect Detection using YOLOv8 and OpenCV
 - 🔍 Trained YOLOv8 models for defect detection (scratches, dents, missing parts)
